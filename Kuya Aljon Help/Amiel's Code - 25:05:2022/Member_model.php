@@ -70,10 +70,10 @@ class Member_model extends CI_Model {
     }
 
     // function to add members that were edited 
-    public function addToMinistry($ministryId, $data) {
+    public function addToMinistry($ministryId) {
 
         // The correct syntax for update in the sql
-        $this->db->where('MINISTRY_ID', $ministryId);
+        // $this->db->where('MINISTRY_ID', $ministryId);
         $this->db->insert('ci_ministry_mem', $data);
     }
 
