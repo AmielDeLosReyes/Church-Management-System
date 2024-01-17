@@ -6,6 +6,10 @@ Welcome to the Church Management System repository! This project aims to revolut
 
 Our church currently relies on manual processes for tasks such as membership information, attendance tracking, prayer requests, and more. To enhance these processes, we're transitioning to an automated Church Management System delivered in phases.
 
+## Project Images
+<img src="./pages/1.png" width="400"> <img src="./pages/2.png" width="400"> <img src="./pages/3.png" width="400"> <img src="./pages/4.png" width="400"> 
+<img src="./pages/5.png" width="400"> <img src="./pages/6.png" width="400"> <img src="./pages/7.png" width="400"> <img src="./pages/8.png" width="400">
+
 ### Phase 1: Membership Information and Attendance System
 
 In the initial phase, we've automated the membership information and attendance systems. A web application, accessible only on our local church network, serves as the central hub for storing membership information in a secure database. Each member is assigned a unique Membership Identification Number, accompanied by a QR Code stored as an image. An automated email is sent to members containing their QR Code, which is crucial for the Attendance System.
