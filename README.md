@@ -16,16 +16,16 @@ In the inaugural phase, we've automated membership information and attendance tr
 
 For the Attendance System, a dedicated computer at the church entrance equipped with a QR Code scanner facilitates effortless attendance registration. Members simply present their emailed QR Code, and the system seamlessly records their attendance.
 
-#### Phase 2: Financial Reports and Contributions
+### Phase 2: Financial Reports and Contributions
 In the second phase, we're automating financial reporting and contributions tracking. This includes features to manage donations, track expenses, and generate comprehensive financial reports.
 
-#### Phase 3: Events and Calendar Integration
+### Phase 3: Events and Calendar Integration
 The third phase focuses on streamlining events organizing and calendar management. Church administrators can efficiently plan, organize, and communicate events seamlessly through the system.
 
-#### Phase 4: News and Announcements
+### Phase 4: News and Announcements
 Automate the dissemination of news and announcements in the fourth phase. This feature ensures timely and consistent communication with the church community.
 
-#### Phase 5: Comprehensive Church Dashboard
+### Phase 5: Comprehensive Church Dashboard
 The fifth and final phase aims to consolidate all automated processes into a comprehensive church dashboard. Administrators will have a unified view of membership, attendance, finances, events, news, and more.
 
 ## Final Product
