@@ -12,25 +12,25 @@ Our church currently relies on manual processes for crucial tasks such as member
 
 ### Phase 1: Membership Information and Attendance System
 
-In the inaugural phase, we've automated membership information and attendance tracking. A web application, accessible exclusively on our local church network, acts as the central hub for secure storage of membership details. Each member receives a unique Membership Identification Number and a QR Code through automated emails. This QR Code is pivotal for the Attendance System.
+- In the inaugural phase, we've automated membership information and attendance tracking. A web application, accessible exclusively on our local church network, acts as the central hub for secure storage of membership details. Each member receives a unique Membership Identification Number and a QR Code through automated emails. This QR Code is pivotal for the Attendance System.
 
 For the Attendance System, a dedicated computer at the church entrance equipped with a QR Code scanner facilitates effortless attendance registration. Members simply present their emailed QR Code, and the system seamlessly records their attendance.
 
 ### Phase 2: Financial Reports and Contributions
-In the second phase, we're automating financial reporting and contributions tracking. This includes features to manage donations, track expenses, and generate comprehensive financial reports.
+- In the second phase, we're automating financial reporting and contributions tracking. This includes features to manage donations, track expenses, and generate comprehensive financial reports.
 
 ### Phase 3: Events and Calendar Integration
-The third phase focuses on streamlining events organizing and calendar management. Church administrators can efficiently plan, organize, and communicate events seamlessly through the system.
+- The third phase focuses on streamlining events organizing and calendar management. Church administrators can efficiently plan, organize, and communicate events seamlessly through the system.
 
 ### Phase 4: News and Announcements
-Automate the dissemination of news and announcements in the fourth phase. This feature ensures timely and consistent communication with the church community.
+- Automate the dissemination of news and announcements in the fourth phase. This feature ensures timely and consistent communication with the church community.
 
 ### Phase 5: Comprehensive Church Dashboard
-The fifth and final phase aims to consolidate all automated processes into a comprehensive church dashboard. Administrators will have a unified view of membership, attendance, finances, events, news, and more.
+- The fifth and final phase aims to consolidate all automated processes into a comprehensive church dashboard. Administrators will have a unified view of membership, attendance, finances, events, news, and more.
 
 ## Final Product
 
-With the completion of all phases, the Church Management System becomes a unified, efficient, and automated solution for church administration. It empowers administrators to manage various aspects seamlessly, fostering a connected and engaged church community.
+- With the completion of all phases, the Church Management System becomes a unified, efficient, and automated solution for church administration. It empowers administrators to manage various aspects seamlessly, fostering a connected and engaged church community.
 
 ## Tech Stack
 
