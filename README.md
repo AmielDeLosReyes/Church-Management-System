@@ -1,8 +1,29 @@
 # Church-Management-System
-A Church Management System that automates the manual processes of our church.
 
-A system to automate the processes of our church. Currently, all of the processes in our church are being done manually. The membership information is done manually and just typed on an excel file. The attendance is done by a piece of paper being passed around. The prayer requests are done on a piece of paper. There's a lot more processes being done manually and we're looking to transition everything to an automated process. We've planned to deliver the solutions in phases.
+Welcome to the Church Management System repository! This project aims to revolutionize and automate the manual processes within our church, making tasks more efficient and streamlined.
 
-For the phase 1 of our Church Management System, which we are currently working on right now, we've automated the membership information system and the attendance system. We've created a web application (which will only be installed on our local network at church) that stores the membership information on the database. The system also assigns a unique Membership Identification Number to each member and generates a QR Code for it and stores it as an image. The system is also designed to send an automated email to the member and attached to it is their QR Code. What is the QR Code for? This is where the Attendance System comes in. As part of our automated solution, we stationed a computer on our church entrance and the system has the ability to scan the QR Code using a QR Code Scanner. Upon entry, the member will just present the QR Code that was emailed to them and upon scanning, it automatically signs their attendance.
+## Project Overview
 
-We are planning to develop the whole Church Management System with the goal of automating all processes, from Membership, Attendance, Financial Reports, Events Organizing, News, Calendar of Activities, and many more. All those incorporated on a single system.
+Our church currently relies on manual processes for tasks such as membership information, attendance tracking, prayer requests, and more. To enhance these processes, we're transitioning to an automated Church Management System delivered in phases.
+
+### Phase 1: Membership Information and Attendance System
+
+In the initial phase, we've automated the membership information and attendance systems. A web application, accessible only on our local church network, serves as the central hub for storing membership information in a secure database. Each member is assigned a unique Membership Identification Number, accompanied by a QR Code stored as an image. An automated email is sent to members containing their QR Code, which is crucial for the Attendance System.
+
+For the Attendance System, a dedicated computer equipped with a QR Code scanner is stationed at the church entrance. Members present their emailed QR Code upon entry, and the system automatically registers their attendance.
+
+## Future Phases
+
+Our vision for the Church Management System encompasses automating all aspects of church administration, including Financial Reports, Events Organizing, News, Calendar of Activities, and more. This integrated system aims to consolidate various church processes into a single, efficient solution.
+
+## Tech Stack
+
+The Church Management System is developed using the following technologies:
+
+- **PHP CodeIgniter:** Providing a robust framework for web application development.
+- **HTML5/CSS3:** Ensuring a modern and responsive user interface.
+- **Bootstrap:** Enhancing the overall design and user experience.
+- **MariaDB, MySQL:** Serving as the reliable database management systems.
+- **AJAX/JSON:** Facilitating seamless data exchange and enhanced user interactions.
+
+Feel free to explore the codebase and contribute to the continuous improvement of our Church Management System. Together, we are creating a more connected and automated church community!
