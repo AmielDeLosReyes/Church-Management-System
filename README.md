@@ -7,8 +7,8 @@ Welcome to the Church Management System repository! This project aims to revolut
 Our church currently relies on manual processes for tasks such as membership information, attendance tracking, prayer requests, and more. To enhance these processes, we're transitioning to an automated Church Management System delivered in phases.
 
 ## Project Images
-<img src="./pages/1.png" width="400"> <img src="./pages/2.png" width="400"> <img src="./pages/3.png" width="400"> <img src="./pages/4.png" width="400"> 
-<img src="./pages/5.png" width="400"> <img src="./pages/6.png" width="400"> <img src="./pages/7.png" width="400"> <img src="./pages/8.png" width="400">
+<img src="./pages/1.PNG" width="400"> <img src="./pages/2.PNG" width="400"> <img src="./pages/3.PNG" width="400"> <img src="./pages/4.PNG" width="400"> 
+<img src="./pages/5.PNG" width="400"> <img src="./pages/6.PNG" width="400"> <img src="./pages/7.PNG" width="400"> <img src="./pages/8.PNG" width="400">
 
 ### Phase 1: Membership Information and Attendance System
 
